@@ -1,0 +1,4 @@
+connector_type: mongodb
+connection_string: "mongodb://localhost:27017"
+database_name: Stocks_data
+collection_name: stocks
